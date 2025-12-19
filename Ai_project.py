@@ -1,7 +1,7 @@
 """
 AI-Based Political Investability Scoring System (0–10)
 ===================================================
-Author: Sample (MIT-style student project)
+
 
 DISCLAIMER:
 - This is an educational / research prototype.
